@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-12-08 23:58:42</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>c83a8d50531012003bf7a464aec587d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_testapp_test_table.x_testapp_test_table_user</sys_name>
+        <sys_package display_value="TestApp" source="x_testapp">0e587b535b0012003bf7efe5f0f91aad</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="TestApp">0e587b535b0012003bf7efe5f0f91aad</sys_scope>
+        <sys_security_acl display_value="x_testapp_test_table">003a8d50531012003bf7a464aec587d4</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_c83a8d50531012003bf7a464aec587d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-12-08 23:58:42</sys_updated_on>
+        <sys_user_role display_value="x_testapp_test_table_user" name="x_testapp_test_table_user">f32a8d50531012003bf7a464aec587cf</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
